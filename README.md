@@ -4,6 +4,8 @@
 
 AtlasCare is a comprehensive mental wellness application that combines self-help tools with professional therapist connections in a warm, empathetic, and supportive environment. Built with cutting-edge technology and designed with accessibility and user experience at its core.
 
+![Capture d’écran_17-8-2025_2056_atlas-mental-app vercel app](https://github.com/user-attachments/assets/7c688439-b9dc-4bee-bedb-c442d70e1862)
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
@@ -12,6 +14,8 @@ AtlasCare is a comprehensive mental wellness application that combines self-help
 - **Professional Therapy** - HIPAA-compliant video sessions with licensed therapists
 - **Personal Journal** - Customizable themes, stickers, and rich text editing
 - **Progress Analytics** - Comprehensive tracking of mental health journey
+  
+![Capture d’écran_17-8-2025_229_atlas-mental-app vercel app](https://github.com/user-attachments/assets/d9b91367-6b57-4044-93b5-d96dce4bc19d)
 
 ### 🔒 Security & Privacy
 - End-to-end encryption for all communications
@@ -24,6 +28,7 @@ AtlasCare is a comprehensive mental wellness application that combines self-help
 - **Accessibility First** - WCAG AA compliant with high contrast support
 - **Responsive Design** - Optimized for all devices and screen sizes
 - **Glass Morphism UI** - Modern, professional aesthetic with subtle animations
+
 
 ## 🚀 Technology Stack
 
