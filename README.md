@@ -275,10 +275,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [docs.atlascare.com](https://docs.atlascare.com)
-- **Community**: [community.atlascare.com](https://community.atlascare.com)
-- **Email**: support@atlascare.com
-- **Issues**: [GitHub Issues](https://github.com/your-username/atlascare/issues)
+- **Phone**: +213 541 09 59 03
+- **Email**: stylebenderkh@gmail.com
+
 
 ---
 
